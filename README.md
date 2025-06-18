@@ -1,0 +1,18 @@
+IN .tfvars we need to put values of following things-
+region          = ""
+project_name    = ""
+vpc_cidr        = ""
+pub_sub_1a_cidr = ""
+pub_sub_2b_cidr = ""
+pri_sub_3a_cidr = ""
+pri_sub_4b_cidr = ""
+pri_sub_5a_cidr = ""
+pri_sub_6b_cidr = ""
+db_username     = ""
+db_password     = ""
+waf_name               = ""
+waf_description        = "
+waf_scope              = ""
+waf_metric_name        = ""
+enable_managed_rules   = true
+db_name = ""
